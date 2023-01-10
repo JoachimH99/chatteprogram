@@ -700,7 +700,7 @@ void motta_melding(char* buf, struct sockaddr_in *avsender) {
 int main(int argc, char const *argv[]) {
 
     if (argc != 6) {
-        printf("Korrekt bruk: ./upush_server <nick> <adresse> <port> <timeout> <tapssansynlighet>\n");
+        printf("Korrekt bruk: ./upush_client <nick> <adresse> <port> <timeout> <tapssansynlighet>\n");
         return EXIT_SUCCESS;
     }
     set_loss_probability(((float) atoi(argv[5]))/100);
