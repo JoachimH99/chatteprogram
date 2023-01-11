@@ -1,5 +1,5 @@
 # Chatteprogram
-Et enkelt chatteprogram kodet i C og bygget på UDP. Hentet fra hjemmeeksamen i "Introduksjon til operativsystemer og datakommunikasjon". 
+Et enkelt chatteprogram kodet i C og bygget på UDP. Hentet fra min besvarelse av hjemmeeksamen i "Introduksjon til operativsystemer og datakommunikasjon". 
 Programmet er kun testet over localhost.
 
 ## Kjøring
